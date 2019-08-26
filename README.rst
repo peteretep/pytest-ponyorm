@@ -58,7 +58,7 @@ First, configure PONY_DB in pytest.ini. PonyORM main Database instance  module l
 .. code-block:: ini
 
     [pytest]
-	PONY_DB=path.models.main
+    PONY_DB=path.models.main
 
 Then just apply the pony marker :
 
